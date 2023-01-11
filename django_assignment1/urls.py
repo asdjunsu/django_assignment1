@@ -19,3 +19,5 @@ from django.urls import path
 urlpatterns = [
     path("admin/", admin.site.urls),
 ]
+
+#커밋 연습-주석변경-----------
